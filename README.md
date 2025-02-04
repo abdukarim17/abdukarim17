@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi there👋!</h2>
 <p>- 🔭 I’m currently working on PySpiWeb, a python web framework</p>
 <p>- 🌱 I’m currently learning Tensorflow and ML</p>
 <p>- 👯 I’m looking to collaborate on AI projects/start-ups  </p>
