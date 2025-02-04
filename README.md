@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<p>- 🔭 I’m currently working on ...</p>
+<p>- 🌱 I’m currently learning ...</p>
+<p>- 👯 I’m looking to collaborate on ...</p>
 
 ###
 <!--
